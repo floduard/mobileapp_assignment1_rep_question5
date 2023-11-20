@@ -1,1 +1,3 @@
-# mobileapp_assignment1_rep_question5
+# MOBILE COMPUTING ASSIGNMENT
+#   NAMES: NZARAMYIMANA FRODOUARD
+#  REGNO: 221015977
